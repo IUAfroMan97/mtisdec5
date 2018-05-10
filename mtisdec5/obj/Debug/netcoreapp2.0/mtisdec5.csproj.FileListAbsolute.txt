@@ -1,0 +1,11 @@
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/bin/Debug/netcoreapp2.0/mtisdec5.deps.json
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/bin/Debug/netcoreapp2.0/mtisdec5.runtimeconfig.json
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/bin/Debug/netcoreapp2.0/mtisdec5.runtimeconfig.dev.json
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/bin/Debug/netcoreapp2.0/mtisdec5.dll
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/bin/Debug/netcoreapp2.0/mtisdec5.pdb
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/obj/Debug/netcoreapp2.0/mtisdec5.csprojResolveAssemblyReference.cache
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/obj/Debug/netcoreapp2.0/mtisdec5.csproj.CoreCompileInputs.cache
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/obj/Debug/netcoreapp2.0/mtisdec5.AssemblyInfoInputs.cache
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/obj/Debug/netcoreapp2.0/mtisdec5.AssemblyInfo.cs
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/obj/Debug/netcoreapp2.0/mtisdec5.dll
+/Users/jacobgood/Projects/mtisdec5/mtisdec5/obj/Debug/netcoreapp2.0/mtisdec5.pdb
